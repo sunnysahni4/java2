@@ -158,3 +158,11 @@ static int sum(int b){
 
     })
 }
+
+
+
+class Shape{
+    String color;
+}
+
+
